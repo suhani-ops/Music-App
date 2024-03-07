@@ -94,7 +94,7 @@ ul {
 .fcc-title,
 .playlist-title {
   color: var(--secondary-color);
-  margin: 0 10px;
+  margin: 0px;
   font-family: var(--font-headline);
 }
 
